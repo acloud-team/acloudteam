@@ -10,3 +10,47 @@
     font-style: italic;
     padding-top: 5px;
 }
+
+.no-padding-top {
+    padding-top: 0 !important;
+}
+
+.header .logo p {
+    color: white;
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+.header .logo .logo-sign {
+    font-size: 65px;
+}
+
+.header .logo .logo-text {
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.header .logo .logo-text-2 {
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 100;
+    color: #d7cfcf;
+}
+
+.header .motto {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.header .details p {
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+
+.header .details p {
+    color: white;
+}
+
+.header .logo .bottom {
+    border-bottom: 1px solid gray;
+}
