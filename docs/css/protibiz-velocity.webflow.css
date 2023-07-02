@@ -297,7 +297,7 @@ p {
 
 .footer.center {
   text-align: center;
-  background-color: #383838;
+  background-color: #192024;
   border-top: 1px solid #dbdbdb;
   margin-left: 0;
   margin-right: 0;
@@ -575,6 +575,10 @@ p {
   padding-bottom: 20px;
 }
 
+.grey-icon-wrapper.push-top {
+  color: #6a859c;
+}
+
 .big-icon {
   opacity: .89;
   filter: invert();
@@ -582,7 +586,7 @@ p {
 }
 
 .titlualb {
-  color: #69b9ff;
+  color: #8fb6d8;
   text-align: center;
 }
 
@@ -618,6 +622,10 @@ p {
     padding: 15px;
   }
 
+  .textalb {
+    text-align: justify;
+  }
+
   .container-2 {
     max-width: 728px;
   }
@@ -625,6 +633,10 @@ p {
   .team-slide-wrapper {
     width: 47%;
     margin-right: 6%;
+  }
+
+  .paratoptech {
+    text-align: justify;
   }
 }
 
